@@ -2,7 +2,7 @@
 
 void main()
 {
-	func1();
 	func2();
 	printf("modified");
+	func1();
 }
