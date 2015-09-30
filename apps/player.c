@@ -2,8 +2,8 @@
 
 void main()
 {
-	func2()
-	printf("modif");
+	func2();
+	printf("modi");
 	func1();
 	printf("_________________---");
 }
