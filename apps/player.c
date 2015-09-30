@@ -3,6 +3,6 @@
 void main()
 {
 	func2();
-	printf("modified");
+	printf("modified~~~~~~~~~~~");
 	func1();
 }
